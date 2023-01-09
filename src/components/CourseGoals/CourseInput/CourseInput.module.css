@@ -28,6 +28,6 @@
   background: #ffd7d7;
 }
 
-.form-control.valid label {
+.form-control.invalid label {
   color: red;
 }
